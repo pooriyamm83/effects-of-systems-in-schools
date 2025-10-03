@@ -1,0 +1,2 @@
+https://archive.ics.uci.edu/dataset/320/student+performance
+kagglehub.dataset_download("haseebindata/student-performance-predictions")
